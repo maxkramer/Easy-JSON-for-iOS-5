@@ -1,0 +1,7 @@
+Easy-JSON for iOS 5.
+
+This helper class allows you to easily make use of the JSON functions found in the iOS 5 SDK, by adding a JSONValue category to NSString and NSData. This is a substitute for using SBJSON and JSONKit as this uses NSJSONSerialization.
+
+There shouldn't be any problems, but if there are, please open an issue at the top!
+
+Copyright Max Kramer 2011
