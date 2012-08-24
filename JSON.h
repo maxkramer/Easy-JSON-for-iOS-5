@@ -1,9 +1,9 @@
 //
-//  NSObject+JSON.h
+//  JSON.h
 //  Timbrr
 //
 //  Created by Max Kramer on 22/11/2011.
-//  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
+//  Copyright (c) Max Kramer. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
